@@ -10,7 +10,7 @@
 <p align="center"><b>Give it a PR URL → it fetches diff, fans out to 3 subagents, runs <code>npm test</code> in a Daytona sandbox, and pauses for human <code>Allow</code> before posting.</b><br/>Live demo on <a href="https://github.com/idkshitman/Ship_Safe/pull/3">PR #3</a> • 14 tool calls • Sandbox FAIL → Comment posted</p>
 
 <p align="center">
-  <a href="https://youtu.be/yE7xYjJ88fI">
+  <a href="[https://youtu.be/iXTnFhyy07w]">
     <img src="https://img.shields.io/badge/Demo-Video%20(3min)-FF0000?style=for-the-badge&logo=youtube" alt="Demo"/>
   </a>
   <a href="https://github.com/idkshitman/Ship_Safe/pull/3">
