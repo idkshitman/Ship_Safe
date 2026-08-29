@@ -13,6 +13,9 @@
   <a href="https://youtu.be/yE7xYjJ88fI">
     <img src="https://img.shields.io/badge/Demo-Video%20(3min)-FF0000?style=for-the-badge&logo=youtube" alt="Demo"/>
   </a>
+  <a href="https://github.com/idkshitman/Ship_Safe/pull/3">
+    <img src="https://img.shields.io/badge/Qodo-Reviewed-00D9FF?style=for-the-badge" alt="Qodo"/>
+  </a>
 </p>
 
 ---
