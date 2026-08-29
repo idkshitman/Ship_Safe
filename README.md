@@ -27,7 +27,7 @@
 
 | Step | What you see | Screenshot |
 |------|--------------|------------|
-| **1. Fetch** | `pull_request_read` — 3 files + diff | `Agent steps: 14 tool calls` |
+| **1. Fetch** | `pull_request_read` — 3 files + diff | `Agent steps: 15 tool calls` |
 | **2. Subagents** | 3 parallel per file | `src/app.js: BLOCKER` · `test.js: LOW` · `package.json: LOW` |
 | **3. Sandbox** | Daytona — `npm test` → `FAIL: add(2,3)=-1` | `Validate in Python` fallback (proves sandbox-as-tool) |
 | **4. Pause** | `Tool Approval Required for add_issue_comment` | `Allow / Deny` buttons |
@@ -41,7 +41,7 @@
 
 | Harness | How ShipSafe uses it |
 |---------|----------------------|
-| **🔌 Tool** | GitHub MCP `pull_request_read`, `get_file_contents` — 14 calls |
+| **🔌 Tool** | GitHub MCP `pull_request_read`, `get_file_contents` — 15 calls |
 | **🧊 Sandbox** | Daytona `sandbox as tool` — runs `npm test` / `python test.py` isolated |
 | **✋ Approval** | 2 gates — agent `Approve and post?` + harness `add_issue_comment` → `Allow` |
 | **🤖 Subagents** | 3 parallel reviews per file — keeps root context clean |
