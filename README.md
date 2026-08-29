@@ -13,9 +13,6 @@
   <a href="https://youtu.be/yE7xYjJ88fI">
     <img src="https://img.shields.io/badge/Demo-Video%20(3min)-FF0000?style=for-the-badge&logo=youtube" alt="Demo"/>
   </a>
-  <a href="http://127.0.0.1:8791">
-    <img src="https://img.shields.io/badge/TrueForge-Live%20at%20:8791-00D9FF?style=for-the-badge" alt="Live"/>
-  </a>
 </p>
 
 ---
