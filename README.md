@@ -30,7 +30,7 @@
 | **2. Subagents** | 3 parallel per file | `src/app.js: BLOCKER` · `test.js: LOW` · `package.json: LOW` |
 | **3. Sandbox** | Daytona — `npm test` → `FAIL: add(2,3)=-1` | `Validate in Python` fallback (proves sandbox-as-tool) |
 | **4. Pause** | `Tool Approval Required for add_issue_comment` | `Allow / Deny` buttons |
-| **5. Post** | `Comment posted successfully` → [PR #3 comment](https://github.com/idkshitman/Ship_Safe/pull/3) | ID `5461998710` |
+| **5. Post** | `Comment posted successfully` → [[PR #3 comment](https://github.com/idkshitman/Ship_Safe/pull/3#issuecomment-5462257328)] | ID `5461998710` |
 
 **Session:** Refresh browser mid-run → history persists.
 
