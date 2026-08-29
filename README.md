@@ -10,7 +10,7 @@
 <p align="center"><b>Give it a PR URL → it fetches diff, fans out to 3 subagents, runs <code>npm test</code> in a Daytona sandbox, and pauses for human <code>Allow</code> before posting.</b><br/>Live demo on <a href="https://github.com/idkshitman/Ship_Safe/pull/3">PR #3</a> • 14 tool calls • Sandbox FAIL → Comment posted</p>
 
 <p align="center">
-  <a href="https://github.com/idkshitman/Ship_Safe/pull/3">
+  <a href="https://youtu.be/yE7xYjJ88fI">
     <img src="https://img.shields.io/badge/Demo-Video%20(3min)-FF0000?style=for-the-badge&logo=youtube" alt="Demo"/>
   </a>
   <a href="http://127.0.0.1:8791">
@@ -22,7 +22,8 @@
 
 ## ✨ Demo
 
-> **Paste in TrueForge Chat:** `/review https://github.com/idkshitman/Ship_Safe/pull/3`
+> <img width="2558" height="1368" alt="image" src="https://github.com/user-attachments/assets/aa9dcb8a-8540-473c-941f-a043fbf201eb" />
+
 
 | Step | What you see | Screenshot |
 |------|--------------|------------|
